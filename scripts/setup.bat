@@ -24,7 +24,7 @@ echo.
 echo Setup complete
 echo.
 echo To activate venv in your terminal instance, run:
-echo %TAB%.venv\Scripts\activate.bat
+echo %TAB%.venv\bin\activate.bat
 echo %TAB%(.bat works in cmd, use .ps1 for Powershell)
 echo To run your python script, run:
 echo %TAB%python <your-file-name>.py
